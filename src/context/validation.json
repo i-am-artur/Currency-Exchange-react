@@ -1,0 +1,18 @@
+{
+  "email": {
+    "equals": {
+      "en": "Demo: Must be '{{email}}'",
+      "ru": "Должен быть '{{email}}'"
+    }
+  },
+  "password": {
+    "equals": {
+      "en": "Demo: Must be '{{password}}'",
+      "ru": "Должен быть '{{password}}'"
+    }
+  },
+  "required": {
+    "en": "Required'",
+    "ru": "Требуется"
+  }
+}

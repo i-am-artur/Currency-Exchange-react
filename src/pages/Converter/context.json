@@ -1,0 +1,22 @@
+{
+  "pageTitle": {
+    "en": "Converter",
+    "ru": "Конвертер"
+  },
+  "from": {
+    "en": "From:",
+    "ru": "Меняю:"
+  },
+  "to": {
+    "en": "To:",
+    "ru": "На:"
+  },
+  "amount": {
+    "en": "Amount:",
+    "ru": "Сумма:"
+  },
+  "result": {
+    "en": "Result:",
+    "ru": "Результат:"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pageTitle": {
+    "en": "Login",
+    "ru": "Авторизация"
+  },
+  "from": {
+    "en": "From:",
+    "ru": "Меняю:"
+  },
+  "Filter": {
+    "en": "Filter:",
+    "ru": "Фильтр:"
+  }
+}

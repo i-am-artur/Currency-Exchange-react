@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Currency Exchange
+
+React pet-project application.\
+Make calculations with current currency exchange rates.
+
+Languages: English, Russian\
+Authentication: Google, Email
+
+## Tech stack
+
+- React (redux, router)
+- Typescript
+- Styled components
+- Formik, Yup
+- React-Toastify
+- Mustache
+- Fontawesome
+- Google Login Api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

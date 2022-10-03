@@ -20,10 +20,12 @@
   },
   "plugins": ["react", "@typescript-eslint", "@typescript-eslint", "prettier"],
   "rules": {
+    "@typescript-eslint/no-explicit-any": "off",
     "react/react-in-jsx-scope": "off",
     "camelcase": "error",
+    "semi": "warn",
     "spaced-comment": "error",
-    "quotes": ["error", "single"],
+    "quotes": ["error", "single", { "avoidEscape": true }],
     "no-duplicate-imports": "error"
   },
   "settings": {
