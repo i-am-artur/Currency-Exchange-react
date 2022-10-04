@@ -2,6 +2,7 @@
   "name": "react-currency-exchange",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/Portfolio/currency-converter",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
@@ -37,7 +38,6 @@
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md}' --config ./.prettierrc"
   },
-  "homepage": "./",
   "eslintConfig": {
     "extends": [
       "react-app",
